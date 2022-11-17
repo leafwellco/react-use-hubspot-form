@@ -6,7 +6,6 @@
   "typings": "build/main/index.d.ts",
   "types": "build/main/index.d.ts",
   "module": "build/module/index.js",
-  "repository": "https://github.com/leafwellco/react-use-hubspot-form",
   "license": "MIT",
   "keywords": [
     "react",
