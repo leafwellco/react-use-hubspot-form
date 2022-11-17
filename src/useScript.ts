@@ -24,7 +24,7 @@ function useScript(
       const script = document.createElement('script');
       script.src = src;
       script.async = async;
-
+      script.setAttribute('type', 'text/partytown');
 
       // Script event listener callbacks for load and error
       const onScriptLoad = () => {
